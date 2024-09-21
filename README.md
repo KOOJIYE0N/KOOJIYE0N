@@ -29,4 +29,3 @@ $ conda activate cv_detection
 $ python --version
 $ python example.py
 ```
-```
