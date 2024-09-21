@@ -30,5 +30,3 @@ $ python --version
 $ python example.py
 ```
 ```
-
-This README now includes the provided image link. 
